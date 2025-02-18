@@ -22,5 +22,5 @@ This is a simple To-Do API built using FastAPI that allows users to create, read
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/2AliRaza/todo_api
+   git clone https://github.com/2AliRaza/todo_api_with_mongoDB
  
